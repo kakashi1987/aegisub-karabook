@@ -1,1 +1,1 @@
-# aegisub-karabook
+# Aegisub - KaraBook
